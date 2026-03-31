@@ -36,6 +36,7 @@
 **Корректность:** результаты на GPU и CPU проверены на корректность с помощью сравнения с эталонным результатом (используя np.dot). Во всех тестах были получены совпадающие результаты, что подтверждает корректность реализации.
 
 Также ниже приведены графики зависимости времени выполнения программы от размеров входных матриц, а также график ускорения GPU относительно CPU.
+
 <img width="614" height="385" alt="image" src="https://github.com/user-attachments/assets/f323a1e7-8171-4cf2-b323-aa355db2116c" />
 <img width="563" height="385" alt="image" src="https://github.com/user-attachments/assets/87cdd7b2-e523-403e-8c4d-292bb6514ab7" />
 <img width="605" height="385" alt="image" src="https://github.com/user-attachments/assets/2c111c58-850a-45c6-94f5-398d72048554" />
